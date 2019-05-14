@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/leecher_homepage_showcase/precache-manifest.f0b4dff84acf1402de46c7c8d8018f84.js"
+  "/leecher_homepage_showcase/precache-manifest.7186c8711cd6fff4a93cef57095c17b6.js"
 );
 
 workbox.clientsClaim();
