@@ -1,7 +1,5 @@
-{ 
-	"dataContacts" : 
-	[
-		{
+{
+	"dataContacts": [{
 			"contactName": "Leecher: The Band",
 			"contactPerson": "Email",
 			"contactEmail": "management@leechermusic.com",

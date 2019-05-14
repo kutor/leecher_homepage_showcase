@@ -1,6 +1,5 @@
 {
-    "compMenu": [
-        {
+    "compMenu": [{
             "name": "NEWS",
             "fill": {
                 "topicline": "News / Hírek",
