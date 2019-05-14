@@ -1,6 +1,5 @@
 {
-    "dataShop": [
-        {
+    "dataShop": [{
             "itemName": "'Sightless' CD",
             "itemImage": "../img/shop/shop_album_sightless.png",
             "itemLink": "https://popshop.hu/leecher/15528-leecher-sightless.html",
